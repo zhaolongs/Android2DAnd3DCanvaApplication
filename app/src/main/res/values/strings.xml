@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="_2d">2D绘图</string>
+    <string name="_3d">3D绘图</string>
+</resources>
